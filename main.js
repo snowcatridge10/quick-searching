@@ -12,5 +12,5 @@
     input = document.getElementById("input");
 
     btn.addEventListener("click", function(){
-        window.location.href="https://www.google.com/search?q=" + input.value;
+        window.location.href="https://duckduckgo.com/?q=" + input.value;
     });
